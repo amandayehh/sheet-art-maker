@@ -28,3 +28,9 @@ Create art in Google Sheets
 8. On the first run, you’ll need to enable permissions. Click to show advanced options and select the unsafe option. Don't worry. There is nothing suspicious about this app.
 <img width="100%" src="https://github.com/user-attachments/assets/f80997df-17c8-484c-a442-bfd27b7f3b5a" />
 
+## How to use this extension
+
+- Upload or link an image and experiment with background color, text content, borders, and cell size.
+- Copy & paste is for copying backgroundless shapes
+
+<img width="100%" alt="instruction" src="https://github.com/user-attachments/assets/1bd70223-3c7f-4d9a-a31d-291fee3ec4af" />
