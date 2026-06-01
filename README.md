@@ -9,7 +9,7 @@ Create art in Google Sheets
 
 
 ## How to run this extension
-1. In a Google Sheets file, click on Extensions >  App Script.
+1. In a Google Sheets file, select Extensions >  Apps Script.
 <img width="100%" src="https://github.com/user-attachments/assets/ae51cbf9-a29e-4cdc-8313-a97b63397e95" />
 
 2. In the App Script editor, copy and paste the Code.gs into the file with the same name.
