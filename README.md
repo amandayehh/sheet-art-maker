@@ -1,9 +1,15 @@
+<img width="6274" height="2892" alt="Scratchpad Frame (2)" src="https://github.com/user-attachments/assets/65cade51-5331-4818-8334-9daad08f75c4" />
+
 # Sheet Art Maker
 Create art in Google Sheets
+<br>
+<br>
+<br>
 
-## How to run this plugin
+
+## How to run this extension
 1. In a Google Sheets file, click on Extensions >  App Script.
-<img width="974" height="457" alt="Frame 188" src="https://github.com/user-attachments/assets/9534d2cc-6047-44b6-8132-19a930148906" />
+<img width="100%"  alt="Frame 188" src="https://github.com/user-attachments/assets/ae51cbf9-a29e-4cdc-8313-a97b63397e95" />
 
 2. In the App Script editor, copy and paste the Code.gs here into the file with the same name.
 
@@ -11,14 +17,14 @@ Create art in Google Sheets
 
 4. Save both files.
 
-5. (Optional) In the editor sidebar, add a new service. Select “Google Sheets API”. This will unlock more robust copy and paste functionalities.
-<img width="974" height="457" alt="Frame 189" src="https://github.com/user-attachments/assets/a15ed363-1d47-4c58-bdbb-0826fc0be3dc" />
+5. In the editor sidebar, add a new service. Select “Google Sheets API”. This will unlock more robust copy and paste functionalities. (Optional) 
+<img width="100%"  alt="Frame 189" src="https://github.com/user-attachments/assets/5f71ff93-843d-4ec0-b621-7bb63c62adb6" />
 
 6. Go back to your sheets file. Refresh the page.
 
 7. Click on Sheet Art Maker > Open Sheet Art Maker to enable the art sidebar.
-<img width="974" height="457" alt="Frame 187" src="https://github.com/user-attachments/assets/e5c67af3-3c5d-4f9f-b76c-882d3b81be64" />
+<img width="100%" alt="Frame 187" src="https://github.com/user-attachments/assets/1a035ee6-fba9-45a9-ad2f-60415d81a4b6" />
 
 8. On first run, you'll need to enable permissions. Show advanced option and select the unsafe option. Don't worry. There is nothing suspicious about this app.
-<img width="974" height="457" alt="Frame 190" src="https://github.com/user-attachments/assets/2c1f2aa6-56b6-44c2-982e-ab0fd123087d" />
+<img width="100%" alt="Frame 190" src="https://github.com/user-attachments/assets/f80997df-17c8-484c-a442-bfd27b7f3b5a" />
 
