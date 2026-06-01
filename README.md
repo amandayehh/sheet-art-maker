@@ -1,4 +1,4 @@
-<img width="6274" height="2892" alt="Scratchpad Frame (2)" src="https://github.com/user-attachments/assets/65cade51-5331-4818-8334-9daad08f75c4" />
+<img width="5230" height="2412" alt="Scratchpad Frame (3)" src="https://github.com/user-attachments/assets/5b8b5c37-af76-4848-9027-6a4fb3dd4370" />
 
 # Sheet Art Maker
 Create art in Google Sheets
