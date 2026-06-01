@@ -30,7 +30,9 @@ Create art in Google Sheets
 
 ## How to use this extension
 
-- Upload or link an image and experiment with background color, text content, borders, and cell size.
-- Copy & paste is for copying backgroundless shapes
+- Upload or link an image and experiment with background color, text content, borders, and cell size
+- Copy & paste is for copying backgroundless shapes within your selection
+-  Delete button clears your selection, or the whole page if nothing is selected
+-  Cmd c + z still works as usual :)
 
 <img width="100%" alt="instruction" src="https://github.com/user-attachments/assets/1bd70223-3c7f-4d9a-a31d-291fee3ec4af" />
