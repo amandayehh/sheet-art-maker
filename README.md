@@ -25,6 +25,6 @@ Create art in Google Sheets
 7. Click on Sheet Art Maker > Open Sheet Art Maker to enable the art sidebar.
 <img width="100%" src="https://github.com/user-attachments/assets/1a035ee6-fba9-45a9-ad2f-60415d81a4b6" />
 
-8. On the first run, you’ll need to enable permissions. CLick to show advanced option and select the unsafe option. Don't worry. There is nothing suspicious about this app.
+8. On the first run, you’ll need to enable permissions. Click to show advanced option and select the unsafe option. Don't worry. There is nothing suspicious about this app.
 <img width="100%" src="https://github.com/user-attachments/assets/f80997df-17c8-484c-a442-bfd27b7f3b5a" />
 
