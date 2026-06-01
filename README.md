@@ -1,4 +1,4 @@
-# sheet-art-maker
+# Sheet Art Maker
 Create art in Google Sheets
 
 ## How to run this plugin
