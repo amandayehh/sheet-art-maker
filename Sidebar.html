@@ -1362,12 +1362,14 @@
       left: 50%;
       transform: translateX(-50%);
       z-index: 11;
+      /* Width hugs the message on one line, same as before, capped at the
+         bar width. The box only grows in HEIGHT: when a message is too
+         long to fit even at that max width, it wraps to more lines rather
+         than getting any wider. Height is capped at 320px, after which it
+         scrolls. Icon pins to the first line so multi-line messages don't
+         float it in the vertical middle. */
+      width: max-content;
       max-width: calc(100% - 32px);
-      /* Grows to fit its message: short statuses stay a compact one-line
-         pill, longer ones (e.g. error text) wrap and the box grows down.
-         Capped at 320px tall, after which it scrolls rather than running
-         off the top of the bar. Icon pins to the first line so multi-line
-         messages don't float it in the vertical middle. */
       max-height: 320px;
       overflow-x: hidden;
       overflow-y: auto;
@@ -2605,9 +2607,9 @@
         const row = BG_PALETTE_ROWS.find(r => r.id === id);
         bgRowSelections.set(id, new Set(row.colors.map((_, i) => i)));
       });
-      // Symbol: the saturated mid-tone row.
-      const symbolDefault = BG_PALETTE_ROWS.find(r => r.id === 'default');
-      symbolRowSelections.set('default', new Set(symbolDefault.colors.map((_, i) => i)));
+      // Symbol: the Light 1 row.
+      const symbolDefault = BG_PALETTE_ROWS.find(r => r.id === 'light1');
+      symbolRowSelections.set('light1', new Set(symbolDefault.colors.map((_, i) => i)));
       // Accents: vibrant.
       const accentDefault = BG_PALETTE_ROWS.find(r => r.id === 'sat');
       bgAccentRowSelections.set('sat',   new Set(accentDefault.colors.map((_, i) => i)));
