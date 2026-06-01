@@ -1,4 +1,4 @@
-<img width="100%" alt="A pentaptych painting created in google sheets using the Sheet art maker" src="https://github.com/user-attachments/assets/8fb01c33-da4b-425f-8687-66114a784218" />
+<img width="100%" alt="A pentaptych painting created in google sheets using the Sheet art maker" src="https://github.com/user-attachments/assets/c1723b1d-138d-4683-889c-eb1e488c6d33" />
 
 # Sheet Art Maker
 Create art in Google Sheets
