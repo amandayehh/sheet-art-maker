@@ -12,7 +12,7 @@ Create art in Google Sheets
 1. In a Google Sheets file, select Extensions >  Apps Script.
 <img width="100%" src="https://github.com/user-attachments/assets/ae51cbf9-a29e-4cdc-8313-a97b63397e95" />
 
-2. In the App Script editor, copy and paste the Code.gs into the file with the same name.
+2. In the Apps Script editor, copy and paste the Code.gs into the file with the same name.
 
 3. Create a new HTML file called Sidebar.html, and make sure to use the same case. Copy and paste the html file in it.
 
